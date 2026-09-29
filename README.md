@@ -1,4 +1,5 @@
 # 🎓 EduGrade - Calculadora & Gestão de Notas Acadêmicas
+> **Repositório Oficial:** [github.com/vivoeasy100/calculadora_de_notas_academicas-](https://github.com/vivoeasy100/calculadora_de_notas_academicas-)  
 > **Trabalho A3 Prático – Gestão e Qualidade de Software**  
 > **Professor:** Daniel Henrique Matos de Paiva  
 > **Instituição:** Ânima Educação / Centro Universitário UNA  
