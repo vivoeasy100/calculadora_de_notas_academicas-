@@ -9,12 +9,12 @@
 
 ## 👥 Integrantes do Grupo e Divisão de Responsabilidades
 
-| Integrante | RA | Papel no Projeto & Apresentação |
-| :--- | :--- | :--- |
-| **Lucas Henrique Miranda** | `325131396` | **Introdução, Planejamento & Requisitos (PO)** |
-| **Caio Duraes** | `325132875` | **Desenvolvimento & Arquitetura de Software** |
-| **Gabriel Ferreira** | `325140970` | **Documentação, Versionamento & GitFlow** |
-| **Fernando Almeida** | `326132695` | **Garantia da Qualidade, TDD & CI/CD** |
+| Integrante | RA | GitHub | Papel no Projeto & Apresentação |
+| :--- | :--- | :--- | :--- |
+| **Lucas Henrique Miranda** | `325131396` | [@LuchMiranda](https://github.com/LuchMiranda) | **Introdução, Planejamento & Requisitos (PO)** |
+| **Caio Duraes** | `325132875` | [@caiovas28-dotcom](https://github.com/caiovas28-dotcom) | **Desenvolvimento & Arquitetura de Software** |
+| **Gabriel Ferreira** | `325140970` | [@1Gapril](https://github.com/1Gapril) | **Documentação, Versionamento & GitFlow** |
+| **Fernando Almeida** | `326132695` | [@vivoeasy100](https://github.com/vivoeasy100) | **Garantia da Qualidade, TDD & CI/CD** |
 
 ---
 

@@ -7,13 +7,14 @@
 ---
 
 ## 1. IDENTIFICAÇÃO DOS INTEGRANTES DO GRUPO
+> **Repositório do Projeto:** https://github.com/vivoeasy100/calculadora_de_notas_academicas-
 
-| Nome Completo | RA | Função no Projeto |
-| :--- | :--- | :--- |
-| **Lucas Henrique Miranda** | `325131396` | Product Owner & Requisitos do Sistema |
-| **Caio Duraes** | `325132875` | Desenvolvedor Backend & Arquitetura |
-| **Gabriel Ferreira** | `325140970` | DevOps & Gestão de Configuração (GitFlow) |
-| **Fernando Almeida** | `326132695` | Engenheiro de Qualidade & Testes (QA/TDD) |
+| Nome Completo | RA | Usuário GitHub | Função no Projeto |
+| :--- | :--- | :--- | :--- |
+| **Lucas Henrique Miranda** | `325131396` | [@LuchMiranda](https://github.com/LuchMiranda) | Product Owner & Requisitos do Sistema |
+| **Caio Duraes** | `325132875` | [@caiovas28-dotcom](https://github.com/caiovas28-dotcom) | Desenvolvedor Backend & Arquitetura |
+| **Gabriel Ferreira** | `325140970` | [@1Gapril](https://github.com/1Gapril) | DevOps & Gestão de Configuração (GitFlow) |
+| **Fernando Almeida** | `326132695` | [@vivoeasy100](https://github.com/vivoeasy100) | Engenheiro de Qualidade & Testes (QA/TDD) |
 
 ---
 
