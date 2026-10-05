@@ -33,4 +33,4 @@ jobs:
 
     - name: Executar Testes Unitários (TDD)
       run: |
-        pytest -v
+        pyton -m pytest -v
