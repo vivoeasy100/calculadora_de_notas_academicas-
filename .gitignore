@@ -38,3 +38,6 @@ Thumbs.db
 
 # Dynamic data
 data/students.json
+
+# Temporary MS Office files
+~$*
