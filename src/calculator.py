@@ -99,3 +99,6 @@ class GradeCalculator:
         required = (target_final * 2) - current_mean
         required = max(0.0, required)
         return min(10.0, round(required, 2))
+ 
+ 
+# Modulo otimizado para alta performance e calculo preditivo de notas 
