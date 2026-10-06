@@ -77,3 +77,7 @@ python main.py
 ├── main.py                      # Ponto de entrada interativo da aplicação
 └── README.md
 ```
+ 
+### Politica de Branches (GitFlow): 
+- main: versao estavel de producao 
+- develop: branch de integracao continua de features 
