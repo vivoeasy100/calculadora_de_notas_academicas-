@@ -13,7 +13,7 @@ Abaixo está a **lista exata do que cada integrante precisa fazer**, passo a pas
 
 ---
 
-## 👤 1. LUCAS HENRIQUE MIRANDA
+## 👤 1. LUCAS HENRIQUE
 * **RA:** `325131396`
 * **GitHub:** [@LuchMiranda](https://github.com/LuchMiranda)
 * **Papel no Projeto:** Product Owner & Engenharia de Requisitos (ODS 4)
